@@ -50,4 +50,5 @@ dcf4793c-def0-497f-9457-8008e75f381d
 {4,"_$User$_.Update",23},
 {4,"_$User$_.Delete",24},
 {4,"_$InfoBase$_.DumpStart",25},
-{4,"_$InfoBase$_.DumpFinish",26}
+{4,"_$InfoBase$_.DumpFinish",26},
+{5,d24a66a1-27c2-44eb-a99c-af1d824988b2,"Справочник.Факультеты",13}
